@@ -33,8 +33,8 @@ To create a data-driven customer segmentation framework that allows for targeted
 - This methodology can be replicated and scaled across different countries or regions within the AdventureWorks dataset.
 
 ## Files Included
-- `rfm_analysis_france.sql` – Full SQL script used to extract and prepare data.
-- `rfm_analysis_output.xlsx` – Excel file containing final RFM scores, sorted list, and raw metrics.
+- `Satkar_Karki_RFM_Analysis.sql` – Full SQL script used to extract and prepare data.
+- `Satkar_Karki_RFM_Analysis` – Excel file containing final RFM scores, sorted list, and raw metrics.
 
 ## Potential Extensions
 - Add clustering (e.g., K-Means) to group customers into personas based on RFM vectors.
@@ -44,4 +44,4 @@ To create a data-driven customer segmentation framework that allows for targeted
 ## Author
 **Satkar Karki**  
 MS in Business Analytics  
-GitHub: [your username] | LinkedIn: [your link] | Portfolio: [your site]
+GitHub: satkar605 | LinkedIn: [https://www.linkedin.com/in/ksatkar/] | Portfolio: [https://www.datascienceportfol.io/karkisatkarhere]
